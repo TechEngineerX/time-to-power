@@ -10,11 +10,12 @@
   6. To stop, press "Stop"
 
 # How to use (Mac):
-  1. Download the shortcut file
-  2. Download the app named "Shortcut". You can install it on Apple App Store
-  3. Run the shortcut file
-  4. Now open the Shortcut app, click on Time to Power
-  5. Set time(s) and press "OK"
-  6. Choose an action
-  7. You can stop by press the Stop button
-  8. Warning: It will ask you to Shutdown or Restart!
+  1. Download all the file
+  2. Extract the file
+  3. Download the app named "Shortcut". You can install it on Apple App Store
+  4. Run the shortcut file
+  5. Now open the Shortcut app, click on Time to Power
+  6. Set time(s) and press "OK"
+  7. Choose an action
+  8. You can stop by press the Stop button
+  9. Warning: It will ask you to Shut down or Restart!
